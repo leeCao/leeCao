@@ -4,12 +4,12 @@ I'm a Product Designer with 9 years of experience designing digital products.
 
 I enjoy turning complex requirements and workflows into clear, intuitive experiences — from understanding user needs and designing interactions to building scalable design systems and collaborating with developers.
 
-## What I do
+## What I Focus On
 
-- **Product Design** — Complex B2B SaaS, engineering tools, and data-heavy workflows
-- **Design Systems** — Components, design tokens, documentation, and scalable UI patterns
-- **Interaction Design** — Information architecture, prototyping, and usability improvements
-- **AI-assisted Workflows** — Exploring AI tools for design, prototyping, and lightweight development
+- **Product Design** — Understanding user needs and turning complex requirements into intuitive experiences.
+- **Interaction Design** — Information architecture, user flows, prototyping, and usability.
+- **Design Systems** — Reusable components, design tokens, documentation, and scalable UI patterns.
+- **Design & Technology** — Design-to-development collaboration, AI-assisted workflows, and rapid prototyping.
 
 ## Projects & Experiments
 A few things I've been building and exploring outside my day-to-day design work.
